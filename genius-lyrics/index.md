@@ -1,4 +1,3 @@
-title: Genius Lyrics
 # Genius Lyrics Discord BOT
 
 <link rel="preconnect" href="https://fonts.gstatic.com"> 
