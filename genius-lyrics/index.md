@@ -108,4 +108,4 @@ It also using Slash Commands! It means you and your users in the server can easl
   
 
 
-<font color="gray">Feel free to contact with me with my email [ekaankoc@gmail.com](mailto:ekaankoc@gmail.com)</font>
+<font color="gray">Feel free to contact with me with my email</font> [ekaankoc@gmail.com](mailto:ekaankoc@gmail.com)
