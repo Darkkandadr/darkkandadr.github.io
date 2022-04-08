@@ -1,4 +1,3 @@
-Genius Lyrics ^_^
 <style>
 button, button::after {
   width: 380px;
@@ -89,13 +88,12 @@ button:hover::after {
 </style>
 
 # Genius Lyrics Discord BOT
+
 <link rel="preconnect" href="https://fonts.gstatic.com"> 
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
 
-<button>INVITE NOW</button>
+<center><button>INVITE NOW</button></center>
 
-
-A bot that uses Genius API to get song lyrics.
 ## What is Genius Lyrics Bot?
 This bot is using Genius Public API to get the song's lyrics. This service is free to use and very basic to use.
 ### What about permissions that Genius Lyrics Bot is using on My Discord Server?
