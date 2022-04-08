@@ -1,3 +1,4 @@
+title: Genius Lyrics
 <style>
 button, button::after {
   width: 380px;
