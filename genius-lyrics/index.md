@@ -23,5 +23,5 @@ It also using Slash Commands! It means you and your users in the server can easl
   
 
 <font color="gray" size="2">Feel free to contact with me with my email <a href="mailto:ekaankoc@gmail.com">ekaankoc@gmail.com</a></font>
-
+<br>
 <font color="gray" size="1"> This page has no official affiliation with Genius.com. It is an entirely voluntary community project.</font>
