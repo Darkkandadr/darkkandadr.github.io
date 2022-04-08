@@ -1,4 +1,4 @@
-# Genius Lyrics Discord BOT
+# Genius Lyrics Discord BOT <img>https://assets.genius.com/images/apple-touch-icon.png</img>
 
 <link rel="preconnect" href="https://fonts.gstatic.com"> 
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Darkkandadr/darkkandadr.github.io/master/genius-lyrics/style.css">
