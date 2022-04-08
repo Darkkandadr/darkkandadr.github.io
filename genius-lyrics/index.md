@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Darkkandadr/darkkandadr.github.io/master/genius-lyrics/style.css">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
 
-<center><button>INVITE NOW</button></center>
+<center><a href="https://discord.com/oauth2/authorize?client_id=907979765909180506&scope=bot&permissions=2147483648"><button>INVITE NOW</button></a></center>
 
 ## What is Genius Lyrics Bot?
 This bot is using Genius Public API to get the song's lyrics. This service is free to use and very basic to use.
