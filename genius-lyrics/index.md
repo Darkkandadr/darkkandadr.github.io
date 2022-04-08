@@ -4,7 +4,7 @@ button, button::after {
   height: 86px;
   font-size: 36px;
   font-family: 'Bebas Neue', cursive;
-  background: linear-gradient(45deg, transparent 5%, #FF013C 5%);
+  background: linear-gradient(45deg, transparent 5%, #17ea81 5%);
   border: 0;
   color: #fff;
   letter-spacing: 3px;
@@ -29,7 +29,7 @@ button::after {
   left: 0;
   right: 0;
   bottom: 0;
-  background: linear-gradient(45deg, transparent 3%, #00E6F6 3%, #00E6F6 5%, #FF013C 5%);
+  background: linear-gradient(45deg, transparent 3%, #00E6F6 3%, #00E6F6 5%, #17ea81 5%);
   text-shadow: -3px -3px 0px #F8F005, 3px 3px 0px #00E6F6;
   clip-path: var(--slice-0);
 }
@@ -86,11 +86,12 @@ button:hover::after {
   }
 }
 </style>
+
 # Genius Lyrics Discord BOT
 <link rel="preconnect" href="https://fonts.gstatic.com"> 
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
 
-<button>AVAILABLE NOW</button>
+<button>INVITE NOW</button>
 A bot that uses Genius API to get song lyrics.
 ## What is Genius Lyrics Bot?
 This bot is using Genius Public API to get the song's lyrics. This service is free to use and very basic to use.
