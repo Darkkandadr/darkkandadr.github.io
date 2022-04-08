@@ -1,3 +1,4 @@
+Genius Lyrics ^_^
 <style>
 button, button::after {
   width: 380px;
