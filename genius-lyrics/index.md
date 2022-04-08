@@ -10,9 +10,11 @@ It's like a normal user of your server. It needs only read and send messages per
 It also using Slash Commands! It means you and your users in the server can easly use the bot.
 
 ## Commands
-# /lyrics <song>
+# /lyrics <<song>>
   This is the main command of the bot. It provides you the lyrics of the song you want.
   
   (Some songs lyrics are too long for discord messages. The limit of the message character on discord is 4096. You will get the link of genius page of the song if it is reaching the character limit.)
+  
 
+  
 Feel free to contact with me with my email [ekaankoc@gmail.com](mailto:ekaankoc@gmail.com)
