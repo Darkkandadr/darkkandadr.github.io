@@ -21,5 +21,5 @@ It also using Slash Commands! It means you and your users in the server can easl
   (Some songs lyrics are too long for discord messages. The limit of the message character on discord is 4096. You will get the link of genius page of the song if it is reaching the character limit.)
   
 
-
-<font color="gray">Feel free to contact with me with my email</font> [ekaankoc@gmail.com](mailto:ekaankoc@gmail.com)
+<font color="gray">Feel free to contact with me with my email <a href="mailto:ekaankoc@gmail.com">ekaankoc@gmail.com</a></font>
+<font color="gray" size="10"> This page has no official affiliation with Genius.com. It is an entirely voluntary community project.</font>
