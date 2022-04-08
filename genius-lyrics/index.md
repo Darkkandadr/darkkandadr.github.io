@@ -1,7 +1,7 @@
 # Genius Lyrics Discord BOT
 
 <link rel="preconnect" href="https://fonts.gstatic.com"> 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/Darkkandadr/darkkandadr.github.io/master/genius-lyrics/style.css">
+<link type="text/css" rel="stylesheet" href="style.css" />
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
 
 <center><a href="https://discord.com/oauth2/authorize?client_id=907979765909180506&scope=bot&permissions=2147483648"><button>INVITE NOW</button></a></center>
