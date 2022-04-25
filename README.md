@@ -1,2 +1,2 @@
 # darkkandadr.github.io
-Genius Lyrics[https://darkkandadr.github.io/genius-lyrics/]
+[Genius Lyrics](https://darkkandadr.github.io/genius-lyrics/)
