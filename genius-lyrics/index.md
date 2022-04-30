@@ -20,7 +20,8 @@ It also using Slash Commands! It means you and your users in the server can easl
   This is the main command of the bot. It provides you the lyrics of the song you want.
   
   (Some songs lyrics are too long for discord messages. The limit of the message character on discord is 4096. You will get the link of genius page of the song if it is reaching the character limit.)
-  
+# /nowplaying
+  Learn the lyrics of the song that currently playing in your Spotify.
 
 <font color="gray" size="2">Feel free to contact with me with my email <a href="mailto:ekaankoc@gmail.com">ekaankoc@gmail.com</a></font>
 <br>
