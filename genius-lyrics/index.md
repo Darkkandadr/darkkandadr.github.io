@@ -23,6 +23,6 @@ It also using Slash Commands! It means you and your users in the server can easl
 # /nowplaying
   Learn the lyrics of the song that currently playing in your Spotify.
 
-<font color="gray" size="2">Feel free to contact with me with my email <a href="mailto:ekaankoc@gmail.com">ekaankoc@gmail.com</a></font>
+<font color="gray" size="2">Feel free to contact with me with my email <a href="mailto:genius-lyrics@oyungar.com">genius-lyrics@oyungar.com</a> or Discord DM Darkkandadr#3537</font>
 <br>
 <font color="gray" size="1"> This page has no official affiliation with Genius.com. It is an entirely voluntary community project.</font>
