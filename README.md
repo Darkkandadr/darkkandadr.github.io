@@ -1,2 +1,5 @@
 # darkkandadr.github.io
-[Genius Lyrics](https://darkkandadr.github.io/genius-lyrics/)
+
+Discord: darkkandadr
+E-Mail: ekaankoc@gmail.com
+
